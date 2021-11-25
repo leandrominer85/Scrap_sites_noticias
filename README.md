@@ -1,5 +1,7 @@
 # Scrap_sites_noticias
 
+[Colab Scrap de sites de notícias](https://colab.research.google.com/drive/1wqVJ7O1r8MDG0i0NX-qFjw7aiU3lhrTq?usp=sharing)
+
 ## Sobre o projeto
 
 Esse projeto visa fazer a raspagem de dados dos seguintes  sites de notícias: g1, r7, folha, estadão, metro, globo, uol, terra, msn, buzzfeed, veja, ig, antagonista, oglobo, ny times, washington, cnn br, cnn en, bbc br e bbc en.
